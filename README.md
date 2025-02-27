@@ -25,3 +25,8 @@ c
     2.
 3. MANTEIGA
 4. CAFE
+
+### iMAGENS
+
+![TESTE IMAGEM](C:\Users\diego\Downloads\2 - Visão Geral (2).svg)
+
