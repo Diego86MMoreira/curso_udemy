@@ -28,7 +28,8 @@ c
 
 ### iMAGENS
 
-![TESTE](C:\Users\diego\Downloads\1.png)
+![TESTE](C:/Users/diego/Downloads/2%20-%20Vis%C3%A3o%20Geral.svg)
+
 
 
 
