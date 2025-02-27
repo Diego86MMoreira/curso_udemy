@@ -1,2 +1,11 @@
-# curso_udemy
-Repositório criado para realizar o curso da UDEMY - GITHUB do básico ao avançado.
+# Curso_Udemy
+
+Inicio do Curso
+
+## Atividades
+
+a
+b
+c
+
+###### Melhoorias
