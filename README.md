@@ -1,8 +1,8 @@
-# Curso_Udemy
+#  **Curso_Udemy**
 
-Inicio do Curso
+*Inicio do Curso*
 
-## Atividades
+## _Atividades de **cada curso**_
 
 a
 b
